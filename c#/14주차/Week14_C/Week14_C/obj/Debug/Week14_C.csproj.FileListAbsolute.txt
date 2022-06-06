@@ -1,8 +1,0 @@
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\bin\Debug\Week14_C.exe.config
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\bin\Debug\Week14_C.exe
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\bin\Debug\Week14_C.pdb
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\obj\Debug\Week14_C.csproj.AssemblyReference.cache
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\obj\Debug\Week14_C.csproj.SuggestedBindingRedirects.cache
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\obj\Debug\Week14_C.csproj.CoreCompileInputs.cache
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\obj\Debug\Week14_C.exe
-C:\Users\이주훈\Desktop\2학년 1학기\c# 프로그래밍\14주차\Week14_C\Week14_C\obj\Debug\Week14_C.pdb
